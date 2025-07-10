@@ -16,7 +16,7 @@ This project is a web application for classifying **skin cancer** images using a
 
 ---
 
-## 📸 Demo
+
 
 
 
