@@ -6,7 +6,7 @@
 
 
 streamlit==1.35.0
-Pillow==10.3.0
+Pillow==10.2.0
 requests==2.31.0
-tensorflow==2.11.0
-numpy==1.23.5
+tensorflow-cpu==2.13.0
+numpy==1.24.3
